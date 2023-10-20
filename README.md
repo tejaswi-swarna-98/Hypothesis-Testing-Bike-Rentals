@@ -17,6 +17,9 @@ The primary objective of this project is to understand the variables that signif
 Through this analysis, we aim to provide valuable insights that could help the company strategize effectively to boost its revenue.
 
 ## Tools Used
-Python for data manipulation and analysis
-Libraries such as NumPy, Pandas, Matplotlib, Seaborn, and SciPy for data cleaning, visualization, and statistical analysis
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- SciPy 
 
