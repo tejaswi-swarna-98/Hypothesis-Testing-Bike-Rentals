@@ -5,10 +5,10 @@ This project is designed to provide a practical application of hypothesis testin
 Hypothesis testing is a critical tool in inferential statistics, used for determining the probability that a certain premise or condition holds true for a given statistical population. It’s a way to test the results of an experiment against an assumption or theory.
 
 ## Structure of Analysis
-  1.Data Pre-Processing
-  2.Exploratory Data Analysis
-  3.Hypothesis Testing
-  4.Conclusions and Recommendations
+1. Data Pre-Processing
+2. Exploratory Data Analysis
+3. Hypothesis Testing
+4. Conclusions and Recommendations
 
 ## Project Problem Statement
 
