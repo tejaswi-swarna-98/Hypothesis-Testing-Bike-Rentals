@@ -11,7 +11,7 @@ Hypothesis testing is a critical tool in inferential statistics, used for determ
 4. Conclusions and Recommendations
 
 ## Project Problem Statement
-A local bike-sharing company in India has recently experienced a significant decrease in its revenue. The company wants to investigate the factors influencing the demand for their shared electric bikes.
+A local e-bike sharing company in India has recently experienced a significant decrease in its revenue. The company wants to investigate the factors influencing the demand for their shared electric bikes.
 The primary objective of this project is to understand the variables that significantly impact the demand for shared electric bikes in the Indian market. 
 
 ## Tools Used
